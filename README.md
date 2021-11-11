@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lahrach82
 - 👀 I’m interested in php & js & paython
 - 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on php
+- 💞️ I’m looking to collaborate on php & js
 - 📫 How to reach me serche in google
 
 <!---
